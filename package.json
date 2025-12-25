@@ -2,11 +2,8 @@
   "name": "gt7-scraper-vercel",
   "version": "1.0.0",
   "description": "GT7 Profile Scraper for Vercel",
-  "scripts": {
-    "build": "npx playwright install chromium"
-  },
   "dependencies": {
-    "playwright-core": "^1.40.0",
-    "playwright-chromium": "^1.40.0"
+    "playwright-aws-lambda": "^0.10.0",
+    "playwright-core": "^1.40.0"
   }
 }
