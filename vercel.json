@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/scrape-gt7.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}
